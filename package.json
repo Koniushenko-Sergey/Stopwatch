@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Koniushenko-Sergey/Stopwatch",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /timeJS/"
+    "build": "parcel build src/*.html --public-url /Stopwatch/"
   },
   "repository": {
     "type": "git",
